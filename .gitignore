@@ -1,0 +1,9 @@
+.env
+.claude/
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+bot_stdout.log
+doms_check.log
